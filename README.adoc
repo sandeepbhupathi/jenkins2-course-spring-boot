@@ -7,7 +7,7 @@ so that new and existing users can quickly get to the bits they need.
 
 You can use Spring Boot to create stand-alone Java applications that can be started using
 `java -jar` or more traditional WAR deployments. We also provide a command line tool
-that runs spring scripts.
+that runs spring scripts haha.
 
 Our primary goals are:
 
